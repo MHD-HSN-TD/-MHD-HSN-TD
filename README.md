@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢  I'm currently working at Design me <br>🌱  I’m currently working on my home<br>💬  I like to talk about JacaScript , Nextjs and Ractjs<br>📖  Learn more about my projects on Repo<br>📫  Ask me anything on my issues page<br>💻  Connect with me on LinkedIn
+🏢  I'm currently working at Design me <br>🌱  I’m currently working from my home<br>💬  I like to talk about JavaScript , Nextjs and Ractjs<br>📖  Learn more about my projects on Repo<br>📫  Ask me anything on my issues page<br>💻  Connect with me on LinkedIn
 
 
 ## 🌐 Socials:
